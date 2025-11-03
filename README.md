@@ -40,7 +40,7 @@ python main.py
 kanye.png
 background.png
 
-Option 2: Run Executable (Windows)
+### ✅ Option 2: Run from Executables(WIndows)
 Download the latest .exe from Releases section and run it directly ✅
 ➡️ No installation needed!
 
